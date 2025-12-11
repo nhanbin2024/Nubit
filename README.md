@@ -4,7 +4,4 @@
 [**Qt6**]: https://contribute.qt-project.org/
 [**CMake**]: https://cmake.org/
 
-[**Cython**]: https://cython.org/
-[**CMake**]: https://cmake.org/
 
-[**Cython**]: https://cython.org/
